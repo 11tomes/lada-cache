@@ -10,7 +10,7 @@
  */
 namespace Spiritix\LadaCache\Database;
 
-use Illuminate\Database\Eloquent\Model as EloquentModel;
+use Jenssegers\Mongodb\Eloquent\Model as EloquentModel;
 
 /**
  * Overrides Laravel's model class.
